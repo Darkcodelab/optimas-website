@@ -1,0 +1,458 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.telecom-banner-sec {
+
+    padding: 50px 0px;
+
+
+}
+
+.telecom-sec1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+/* .telecombannerimg,
+.telecom-banner-text {
+    max-width: 95%;
+} */
+
+.telecomimg,
+.leftline {
+    max-width: 80%;
+
+}
+
+.colsec {
+    align-items: left;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.telecom-sec2 {
+    margin-top: 50px;
+
+}
+
+.leftdesign,
+.rightdesign {
+    margin-bottom: 50px;
+}
+
+.rightdesign {
+    text-align: right;
+}
+
+.telecom-sec4 {
+    padding: 50px 0px;
+    background-color: #F3F3F3;
+}
+
+.telecom-sec4-text1 {
+    width: 80%;
+    margin: auto;
+}
+
+.box {
+    width: 100%;
+    height: 100%;
+    padding: 20px 10px 0px 10px;
+}
+
+.leftline1-1{
+    transform: rotate(180deg);
+}
+
+.leftline2{
+    margin-top: -20px !important;
+    margin-bottom: 20px;
+}
+
+.healthlogo {
+    max-width: 70%;
+}
+
+.telecomtext {
+
+}
+
+.telecom-sec4-text2 {
+ 
+    font-weight: bold;
+}
+
+.line {
+
+    width: 150px;
+    border-bottom: 2px solid #ffbf47;
+}
+
+/* .telecom4bg {
+    background: url("../images/healthcare/healthcare-bgimg.png") no-repeat;
+    width: 100%;
+    background-size: contain;
+
+} */
+
+.telecom-sec4_1 {
+    padding: 50px 0px;
+    background-color: #F3F3F3
+}
+
+.telecom-sec4-head,
+.telecom-sec4-text {
+    color: #11174A !important;
+}
+
+.telecom-sec6-sec {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+
+}
+
+.healthbg {
+    max-width: 100%;
+}
+
+.telecom-sec6-text {
+    color: #fff !important;
+    /* position: absolute; */
+    padding: 30px 50px 30px 90px;
+}
+
+
+.telecom-sec6-1 {
+    margin: 50px 0px;
+}
+
+.telecom-sec6 {
+    padding: 50px 0px;
+    margin: 0px !important;
+    background-color: #11174A;
+    color: #fff !important;
+}
+
+.keysec ::marker {
+    color: #FEBE47 !important;
+    font-size: 30px !important;
+
+}
+
+.telecom-sec4-head,
+.telecom-sec4-text,
+.telecom-sec4-subhead {
+    color: #fff !important;
+}
+
+.rightdesign {
+    text-align: right;
+}
+
+.telecomimgs1,
+.telecomimg10 {
+    max-width: 100%;
+
+}
+
+.telecom-sec5,
+.telecom-sec7 {
+    /* margin-top: 50px; */
+    background-color: #F3F3F3;
+    padding: 50px 0px;
+}
+
+.telecomimg3 {
+    max-width: 30%;
+}
+
+.telecomlogo {
+    max-width: 13%;
+
+}
+
+.telecom-sec6 {
+    margin: 50px 0px;
+}
+
+.telecom-sec8 {
+    color: #11174A;
+    background-color: #FEBE47;
+    padding: 50px 0px;
+}
+
+
+.telecom-sec8 a {
+    text-decoration: none;
+}
+
+.telecom-head,
+.telecom-sec4-subhead,
+.telecom-sec5-subhead,
+.telecom-sec6-subhead,
+.telecom-sec7-subhead {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.telecomimg2 {
+    max-width: 80%;
+}
+
+.rightteleimgsec {
+    text-align: right;
+}
+
+.telecom-sec4-head,
+.telecom-sec5-head,
+.telecom-sec6-head,
+.telecom-sec7-head,
+.telecom-sec8-head {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.telecom-sec8-text {
+    width: 80%;
+    margin: auto;
+}
+
+.keysec {
+    margin-left: 30px;
+}
+
+.telecomimg1sec {
+    align-items: center !important;
+    justify-content: center !important;
+    display: flex !important;
+}
+
+.mbl {
+    display: none;
+}
+
+
+
+
+.tele.active {
+    color: #ffbf47 !important;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: transparent !important;
+}
+
+.tele:hover,
+.heal:hover,
+.ener:hover {
+
+    background-color: transparent !important;
+}
+
+
+.tele1,
+.heal1,
+.ener1 {
+    display: none;
+    margin-left: 10px;
+}
+
+.industry1 {
+    display: none;
+
+}
+
+.industry {}
+
+
+.telecom-sec4-text {
+    line-height: 25px !important;
+    margin-bottom: 8px;
+}
+
+.telecom-sec4-grpsec {
+    margin-left: 10px;
+}
+
+.healimg {
+    max-width: 100%;
+    margin: auto;
+}
+
+.circleimgs {
+    max-width: 13px;
+    margin-right: 10px;
+}
+
+.telecom-sec4-grpsec {
+    display: flex;
+}
+
+
+.telecomsec6 {
+    border: 2px solid #ffbf47;
+    border-radius: 30px;
+    padding: 50px 30px 50px 20px;
+    width: 100%;
+    height: 250px;
+    margin-top: 50px;
+}
+
+.healthpng {
+    max-width: 70%;
+}
+
+.position {
+    position: absolute;
+    margin-top: -83px;
+    display: flex;
+
+
+}
+
+@media screen and (min-width:993px) and (max-width:1099.9px) {
+    .telecom-sec6-text {
+        padding: 0px 30px 0px 60px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992.9px) {
+    .telecom-sec6-text {
+        padding: 0px 10px 0px 10px;
+
+    }
+    .healthlogo {
+        max-width: 100% !important;
+    }
+    .position1 {
+        margin-top: -80px;
+    }
+}
+
+@media screen and (min-width:993px) {
+    .indeustrymenu {
+        width: 100% !important;
+        /* margin-left: 150px !important; */
+        padding: 10px !important;
+        /* margin-top: 100px !important; */
+    }
+
+    .dropdown-menu1 {
+        max-width: 100% !important;
+    }
+}
+
+@media screen and (max-width:993px) {
+    .telecomimg3 {
+        max-width: 50%;
+    }
+
+    .indeustrymenu {
+        width: 20%;
+        margin-left: 0px !important;
+        padding: 10px !important;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .telecom-sec6-text {
+
+        padding: 20px;
+        margin-bottom: -20px;
+    }
+
+    .telecomsec6 {
+        padding: 30px 0px 0px 0px;
+
+        height: 100%;
+
+
+    }
+
+    .healthpng {
+        max-width: 50%;
+    }
+
+    .position {
+        margin-left: 20px;
+        margin-top: -55px;
+    }
+
+
+    .position1 {
+        margin-top: -52px;
+    }
+
+    .indeustrymenu {
+        width: 100% !important;
+        margin-left: 0px !important;
+        padding: 10px !important;
+    }
+
+
+    .telecom-sec4-head,
+    .telecom-sec5-head,
+    .telecom-sec6-head,
+    .telecom-sec7-head,
+    .telecom-sec8-head {
+        font-size: 22px;
+    }
+
+    .telecomimg3 {
+        max-width: 70%;
+    }
+
+    .rightdesign {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        text-align: center !important;
+    }
+
+    .desk {
+        display: none;
+    }
+
+    .mbl {
+        display: block;
+    }
+
+    .leftdesign {
+        transform: rotate(180deg);
+    }
+
+    .leftdesign,
+    .rightdesign {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .telecomimg2 {
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .telecomimgs1,
+    .telecomimg10 {
+        max-width: 100%;
+
+    }
+
+    .telecom-sec8-text {
+        width: 100%;
+    }
+
+    .telecomlogo {
+        max-width: 20%;
+
+    }
+}
