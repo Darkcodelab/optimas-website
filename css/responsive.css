@@ -2670,8 +2670,6 @@ header {
   margin: 0 auto;
 }
 
-.owl-carousel .owl-nav button.owl-next,
-.owl-carousel .owl-nav button.owl-prev,
 .owl-carousel .owl-dots {
   display: flex;
   gap: 4px;
@@ -2682,8 +2680,6 @@ header {
   transform: translateX(-50%);
 }
 
-.owl-carousel .owl-nav button.owl-next,
-.owl-carousel .owl-nav button.owl-prev,
 .owl-carousel button.owl-dot {
   background: rgb(238, 238, 238);
   width: 7px;
@@ -2692,8 +2688,6 @@ header {
   transition: width 0.3s ease;
 }
 
-.owl-carousel .owl-nav button.owl-next,
-.owl-carousel .owl-nav button.owl-prev,
 .owl-carousel button.owl-dot.active {
   background: #ffbf47;
   width: 28px;
