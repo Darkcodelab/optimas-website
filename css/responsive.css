@@ -2693,6 +2693,11 @@ header {
   width: 28px;
 }
 
+.owl-carousel img {
+  max-height: 600px;
+  object-fit: contain;
+}
+
 @media screen and (max-width: 993px) {
   .telecomimg3 {
     max-width: 50%;
